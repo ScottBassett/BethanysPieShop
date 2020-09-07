@@ -15,12 +15,13 @@ namespace BethanysPieShop.Controllers
             _categoryRepository = categoryRepository;
         }
 
-        public ViewResult List()
+       // GET: /<controller>/
+        public IActionResult List()
         {
-            ViewBag.CurrentCategory = "Cheese cakes";
-            PiesListViewModel piesListViewModel = new PiesListViewModel();
+           PiesListViewModel piesListViewModel = new PiesListViewModel();
             piesListViewModel.Pies = _pieRepository.AllPies;
 
+            piesListViewModel.CurrentCategory = "Cheese cakes";
             return View(piesListViewModel);
         }
     }

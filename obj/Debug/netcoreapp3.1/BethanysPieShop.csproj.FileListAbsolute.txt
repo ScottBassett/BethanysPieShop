@@ -31,3 +31,5 @@ C:\Training\MVC\PieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.
 C:\Training\MVC\PieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.genruntimeconfig.cache
 C:\Training\MVC\PieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.CopyComplete
 C:\Training\MVC\PieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Training\MVC\PieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\libman.json
+C:\Training\MVC\PieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csprojAssemblyReference.cache
